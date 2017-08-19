@@ -351,18 +351,19 @@ input, button, select, textarea {
 .well {
     /*height: 300px;*/
     padding: 15px 0 12px 0;
+	height: 275px;
 }
 
 .search-view .panel-product-list .well {
     height: auto;
 }
 
-
+/*
 .panel-category-list ul li .well {
 
     height: 245px;
 }
-
+*/
 .panel-category-list ul li a {
     padding: 0;
 }
@@ -371,3 +372,7 @@ input, button, select, textarea {
     position: relative;
     margin-bottom: 15px;
 }
+
+.thumbnail img {
+	max-height: 125px;
+	}
