@@ -343,6 +343,11 @@ input, button, select, textarea {
 }
 
 
+.spendingaccounts {
+    padding: 20px 15px;
+    color: #ffffff;
+}
+
 /*END LEVEL 2 NAV*/
 .nav {
     padding-top: 0;
